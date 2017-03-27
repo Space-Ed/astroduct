@@ -1,0 +1,28 @@
+{
+  "name": "astroduct",
+  "version": "0.0.0",
+  "description": "Reduce composite objects and promises",
+  "main": "astroduct.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Space-Ed/astroduct.git"
+  },
+  "keywords": [
+    "reducer",
+    "astro",
+    "duck",
+    "duct",
+    "super",
+    "awesome",
+    "abstraction"
+  ],
+  "author": "Space-Ed && AstroDuct",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Space-Ed/astroduct/issues"
+  },
+  "homepage": "https://github.com/Space-Ed/astroduct#readme"
+}
